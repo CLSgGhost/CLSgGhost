@@ -1,16 +1,58 @@
 ### Hi there 👋
 
-<!--
-**CLSgGhost/CLSgGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 这个作业属于哪个课程 | [2021软件代码开发技术](https://edu.cnblogs.com/campus/gdgy/2021Softwarecodedevelopmenttechnology) |
+| -------------------- | :----------------------------------------------------------: |
+| 这个作业要求在哪里   | [自我介绍+课程6问](https://edu.cnblogs.com/campus/gdgy/2021Softwarecodedevelopmenttechnology/homework/11773) |
+| 这个作业的目标       | 1.让我们熟悉博客的编写和Github的使用，为后续布置任务铺垫<br />2.让老师和同学了解自己，方便后续开发项目的合作<br />3.让我们带着疑问学习这门课，同时树立学习目标 |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 自我介绍
+
+  ​	我叫**程伟杰**，是软件工程（3）班的学生。是个做事严谨，负责任的人。
+
+  ​	爱好是听音乐、打游戏、画画。
+
+  ​	我喜欢各种类型的电子游戏，游戏填补了我对世界的幻想。我享受在火纹制定战略；在Ghost Trick改变生死；在Ori恢复森林生机；在蔚蓝一次又一次地攀登最终登顶；在MHW:I猎杀古龙，成为苍蓝星......
+
+  ​	分享几张MWH:I中的结算图：
+![](https://img2020.cnblogs.com/blog/1958609/202103/1958609-20210308211459424-1026637840.jpg)
+
+![](https://img2020.cnblogs.com/blog/1958609/202103/1958609-20210308211506140-1087712321.jpg)
+
+![](https://img2020.cnblogs.com/blog/1958609/202103/1958609-20210308211516880-1745392427.jpg)
+
+
+## 6个提问
+
+- 现阶段我们的技术水平能够支撑我们学习好这本书吗？
+- 书上写到真正的高手是尽量不写注释的，那在团队开发中呢？
+- 有多少公司是真正规范地按软件开发流程开发的？
+- 有多少团队声称使用敏捷开发或别的软件开发方法，但只是在假装使用？
+- 这门课能给我们找实习、找工作带来多大的帮助？
+- 如何提高代码质量的同时提高软件开发效率？
+
+
+
+## 想收获的东西
+
+-  找到一套适合自己使用的软件开发方法
+-  写出更容易让别人理解的代码
+-  写出好看的代码
+
+
+
+### 后台博文编辑截图
+![](https://img2020.cnblogs.com/blog/1958609/202103/1958609-20210308212054598-1455331309.png)
+
+
+
+### README编辑截图
+
+
+
+
+
+### Github地址
+
+> https://github.com/CLSgGhost/CLSgGhost
